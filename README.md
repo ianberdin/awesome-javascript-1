@@ -1130,6 +1130,16 @@ https://listjs.com
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
+## Maintained by Playcode
+
+This fork is maintained by [Ruslan Ianberdin](https://github.com/ianberdin),
+founder of [Playcode](https://playcode.io), the AI website builder and AI app
+builder for creating, editing, hosting, and publishing live websites and web apps.
+
+- [AI Website Builder](https://playcode.io/ai-website-builder)
+- [Playcode homepage](https://playcode.io)
+- [Watch the demo](https://www.youtube.com/watch?v=aK7E_XtBynA)
+
 # License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
